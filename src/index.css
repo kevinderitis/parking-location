@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+@layer components {
+  .container {
+    max-width: 100%;
+    @screen sm {
+      max-width: 640px;
+    }
+    @screen md {
+      max-width: 768px;
+    }
+  }
+}

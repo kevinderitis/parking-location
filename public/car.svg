@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M19 17H5M19 17C19.5523 17 20 16.5523 20 16V12C20 11.4477 19.5523 11 19 11H5C4.44772 11 4 11.4477 4 12V16C4 16.5523 4.44772 17 5 17M19 17L19 19C19 19.5523 18.5523 20 18 20H16C15.4477 20 15 19.5523 15 19V17M5 17L5 19C5 19.5523 5.44772 20 6 20H8C8.55228 20 9 19.5523 9 19V17M8 14H16M3 11L7.5 4.5M21 11L16.5 4.5" stroke="#1e40af" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
